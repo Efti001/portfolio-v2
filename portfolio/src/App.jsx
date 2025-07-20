@@ -2,8 +2,6 @@ import { AnimatedPinDemo } from './components/AnimatedPinDemo'
 import { DotBackgroundDemo } from './components/DotBackgroundDemo'
 import { SparklesPreview } from './components/SparklesPreview';
 import { TimelineDemo } from './components/TimelineDemo'
-import { FloatingDock } from './components/ui/floating-dock'
-import { SparklesCore } from './components/ui/sparkles';
 
 function App() {
   return (
