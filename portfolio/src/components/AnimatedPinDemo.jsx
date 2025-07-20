@@ -34,7 +34,7 @@ export function AnimatedPinDemo({
             href={link}
             target="_blank"
             rel="noopener noreferrer"
-            className="absolute right-4 bottom-4 flex items-center gap-1 px-3 py-2 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition shadow-lg text-sm"
+            className="absolute right-4 bottom-4 flex items-center gap-1 px-3 py-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-full hover:from-blue-600 hover:to-purple-700 transition-all duration-300 shadow-lg text-sm"
             title={linkLabel}
           >
             <span>{linkLabel}</span>
