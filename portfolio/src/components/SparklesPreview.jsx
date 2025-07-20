@@ -48,7 +48,7 @@ export function SparklesPreview() {
           </svg>
         </a>
         <a
-          href="https://www.linkedin.com/in/morshedahmed1/"
+          href="https://www.linkedin.com/in/efti/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white hover:text-blue-400 transition-all duration-300 transform hover:scale-125 hover:shadow-xl"
