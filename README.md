@@ -15,5 +15,4 @@ This is a personal developer portfolio built with **React** and styled using **A
 - Animated sections and interactive UI elements
 - Project and skill showcase with clean layouts
 
-## 📁 Project Structure
 
