@@ -19,6 +19,13 @@ function App() {
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900 dark:text-white mb-2 text-center">Projects</h2>
             <div className="flex flex-col md:flex-row gap-0 md:-space-x-4 items-center justify-center w-full">
               <AnimatedPinDemo
+                title="Portfolio"
+                description="A personal portfolio showcasing my projects and skills."
+                stack={["React", "Tailwind CSS", "Motion"]}
+                link="https://github.com/Efti001/portfolio-v2"
+                linkLabel="Source Code"
+              />
+              <AnimatedPinDemo
                 title="iShout"
                 description="A collaborative web app for real-time live class broadcasts in online education."
                 stack={["React", "Node.js", "DaisyUI","PostgreSQL"]}
